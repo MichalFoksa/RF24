@@ -15,3 +15,11 @@ Session.vim
 *.so
 *.dylib
 .DS_Store
+
+# AtmelStudio
+Debug
+Release
+Visual Micro
+*.atsln
+*.atsuo
+*.cppproj
